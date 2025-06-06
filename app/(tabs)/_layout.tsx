@@ -70,7 +70,7 @@ export default function TabLayout() {
           title: 'Settings',
           tabBarIcon: ({ color, size }) => (
             <Settings size={size} color={color} />
-          ),0
+          ),
         }}
       />
     </Tabs>
